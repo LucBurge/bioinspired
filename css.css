@@ -1,0 +1,53 @@
+body{background-color: #d5d8dc;
+	text-decoration: none;
+}
+
+h1{
+	background: linear-gradient(#154360, #d5d8dc);
+	color: white;
+	font-size: 75px;
+	font-family: monospace;
+	border-top: 10px solid #566573;
+	padding: 40px;
+	margin: -20px;
+}
+
+h3 {width: 10%;
+	background-color: #abb2b9;
+	color: #1a5276;
+	font-size: 12px;
+	font-family: Arial;
+	padding: 15px;
+	text-align: center;
+	border: 3px solid white;
+	border-radius: 50px;
+	float: left;
+	margin bottom: 100px;
+}
+
+input {
+	padding: 4px;
+	line-height: 15px;
+	width: 30%;
+	float: left;
+	display: inline-block;
+
+}
+
+button {
+	padding: 4px;
+	line-height: 15px;
+	float: left;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+label {
+	display: inline-block;
+	margin-top: 40px;
+	float: left;
+	padding: 4px;
+	position: relative;
+	right: 420px;
+}
+
